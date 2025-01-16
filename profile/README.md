@@ -11,14 +11,14 @@ O projeto Rapmap visa a criação de um sistema web que seja o responsável por 
 
 #### **Linguagem Ubíqua**
 
-**Administrador** -> Se refere aos usuários que gerem todo o sistema, sendo o nível mais alto dentro do sistema.
-**Batalhas** -> Se refere as batalhas de rap.
-**Eventos** -> Se refere aos eventos de batalhas de rap que podem acontecer em datas e locais.
-**Mc's** -> Se refere a usuários que também possuem um perfil de mc.
-**Owner** -> Se refere aos gerenciadores de batalhas e eventos.
-**Pódio** -> Se refere a colocação final que pode ser adicionada a cada evento.
-**Sistema** -> Se refere a parte tecnológica do Rapmap.
-**Usuário** -> Se refere a pessoas que possuem um cadastro simples no sistema.
+- **Administrador** -> Se refere aos usuários que gerem todo o sistema, sendo o nível mais alto dentro do sistema.
+- **Batalhas** -> Se refere as batalhas de rap.
+- **Eventos** -> Se refere aos eventos de batalhas de rap que podem acontecer em datas e locais.
+- **Mc's** -> Se refere a usuários que também possuem um perfil de mc.
+- **Owner** -> Se refere aos gerenciadores de batalhas e eventos.
+- **Pódio** -> Se refere a colocação final que pode ser adicionada a cada evento.
+- **Sistema** -> Se refere a parte tecnológica do Rapmap.
+- **Usuário** -> Se refere a pessoas que possuem um cadastro simples no sistema.
 
 
 
